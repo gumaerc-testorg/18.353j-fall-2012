@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding matlab primer2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-353j-nonlinear-dynamics-i-chaos-fall-2012/2357fa643e88ca50f629620e364d593d_MIT18_353JF12_matlabPrim_2.pdf
+file: /media/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/2357fa643e88ca50f629620e364d593d_MIT18_353JF12_matlabPrim_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MATLAB primer2
 uid: 2357fa64-3e88-ca50-f629-620e364d593d

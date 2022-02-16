@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding take-home portion of the
   midterm.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6f20d1e63cf4d7160173aa60460bfe96_MIT18_353JF12_MidterAtHome.pdf
+file: /media/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6f20d1e63cf4d7160173aa60460bfe96_MIT18_353JF12_MidterAtHome.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 'Midterm: At-home portion'
 uid: 6f20d1e6-3cf4-d716-0173-aa60460bfe96
