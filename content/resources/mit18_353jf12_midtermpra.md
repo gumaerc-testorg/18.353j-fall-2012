@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 62742ca9-6842-442e-12dd-be518746ae63
 resourcetype: Document
 title: Midterm Practice Problems
 uid: 6804ab2c-7b66-884c-bcb5-7a4c002baa6e

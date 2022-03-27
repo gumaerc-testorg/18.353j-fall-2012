@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a9f5a56f-c99d-5ca8-eb0a-c571db1d40dd
 resourcetype: Other
 title: matlab_code_2.m
 uid: c74a15a7-9015-0475-5441-046459f29ebe

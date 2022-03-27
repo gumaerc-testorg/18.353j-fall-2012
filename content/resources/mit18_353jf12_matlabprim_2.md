@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a9f5a56f-c99d-5ca8-eb0a-c571db1d40dd
 resourcetype: Document
 title: MATLAB primer2
 uid: 2357fa64-3e88-ca50-f629-620e364d593d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 62742ca9-6842-442e-12dd-be518746ae63
 resourcetype: Document
 title: 'Midterm: At-home portion'
 uid: 6f20d1e6-3cf4-d716-0173-aa60460bfe96
