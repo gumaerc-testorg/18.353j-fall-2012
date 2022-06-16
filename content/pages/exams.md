@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the midterm and final exams of the
+  course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -12,9 +14,9 @@ Midterm Exam
 
 The midterm exam will have a classroom written portion and a take-home computational portion. The best preparation for the exam is the problem sets.
 
-[Overview of the midterm and some suggested problems (PDF)]({{< baseurl >}}/resources/mit18_353jf12_midtermpra)
+{{% resource_link 6804ab2c-7b66-884c-bcb5-7a4c002baa6e "Overview of the midterm and some suggested problems (PDF)" %}}
 
-[Take-home portion of the midterm (PDF)]({{< baseurl >}}/resources/mit18_353jf12_midterathome)
+{{% resource_link 6f20d1e6-3cf4-d716-0173-aa60460bfe96 "Take-home portion of the midterm (PDF)" %}}
 
 Final Project
 -------------

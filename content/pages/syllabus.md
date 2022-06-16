@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, requirements and grading, textbooks, and
+  the list of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -93,7 +96,7 @@ Strogatz will be especially valuable for our discussion of stability of ordinary
 The following book may also be useful:  
 Berge, P., Y. Pomeau, and C. Vidal. _Order within Chaos_. Wiley-VCH, 1987. ISBN: 9780471849674.
 
-Additional book recommendations are found in the [readings]({{< baseurl >}}/pages/readings) section.
+Additional book recommendations are found in the {{% resource_link 2a1e8d40-7d8e-fb38-5f13-185ba220dbcc "readings" %}} section.
 
 List of Course Topics
 ---------------------
