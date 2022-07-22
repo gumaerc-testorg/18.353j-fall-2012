@@ -5,6 +5,7 @@ file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/2357fa643e88ca50f629
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MATLAB primer2
 uid: 2357fa64-3e88-ca50-f629-620e364d593d
 ---
 This file contains information regarding matlab primer2.
-

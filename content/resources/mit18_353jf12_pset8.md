@@ -5,6 +5,7 @@ file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6e2f90166e2cd030e4c3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 8
 uid: 6e2f9016-6e2c-d030-e4c3-cd252ee301cf
 ---
 This file contains information regarding problem set 8.
-

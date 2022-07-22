@@ -5,6 +5,7 @@ file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/1ff1763926ceba49e213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4
 uid: 1ff17639-26ce-ba49-e213-7f55c1d30897
 ---
 This file contains information regarding problem set 4.
-

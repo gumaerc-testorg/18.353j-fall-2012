@@ -6,6 +6,7 @@ file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6804ab2c7b66884cbcb5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Midterm Practice Problems
 uid: 6804ab2c-7b66-884c-bcb5-7a4c002baa6e
 ---
 This file contains information regarding overview of the midterm and some suggested problems.
-

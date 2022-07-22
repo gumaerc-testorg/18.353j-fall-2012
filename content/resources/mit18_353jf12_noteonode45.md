@@ -5,6 +5,7 @@ file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6fbf48338bce9c0b3d47
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Note on ode 45
 uid: 6fbf4833-8bce-9c0b-3d47-e1679d4ced7e
 ---
 This file contains information regarding note on ode 45.
-
