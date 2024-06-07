@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of matlab vanderpol.m.
 file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/95a8da63fa2f194cf9f609e9ade95191_vanderpol.m
+file_size: 2840
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments

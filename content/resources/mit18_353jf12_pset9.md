@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 9.
 file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/2bf45b2ad09f6286357699f778743a8b_MIT18_353JF12_pset9.pdf
+file_size: 143425
 file_type: application/pdf
 learning_resource_types:
 - Assignments
