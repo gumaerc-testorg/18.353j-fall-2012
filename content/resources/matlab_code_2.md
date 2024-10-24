@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of matlab code.
-file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/c74a15a7901504755441046459f29ebe_matlab_code_2.m
+file: /ol-ocw-studio-app/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/c74a15a7901504755441046459f29ebe_matlab_code_2.m
 file_size: 2114
 file_type: text/x-objcsrc
 learning_resource_types:

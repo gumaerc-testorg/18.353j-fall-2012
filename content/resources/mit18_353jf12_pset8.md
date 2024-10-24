@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 8.
-file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6e2f90166e2cd030e4c3cd252ee301cf_MIT18_353JF12_pset8.pdf
+file: /ol-ocw-studio-app/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6e2f90166e2cd030e4c3cd252ee301cf_MIT18_353JF12_pset8.pdf
 file_size: 172202
 file_type: application/pdf
 learning_resource_types:
