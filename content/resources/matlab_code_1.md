@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of matlab sample code for Pset 1.
-file: /ol-ocw-studio-app/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/b18f05c1ad3153a7ceef274bd13fd709_matlab_code_1.m
+file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/b18f05c1ad3153a7ceef274bd13fd709_matlab_code_1.m
 file_size: 2692
 file_type: text/x-objcsrc
 learning_resource_types:

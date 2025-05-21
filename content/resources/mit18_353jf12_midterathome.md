@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding take-home portion of the
   midterm.
-file: /ol-ocw-studio-app/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6f20d1e63cf4d7160173aa60460bfe96_MIT18_353JF12_MidterAtHome.pdf
+file: /courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/6f20d1e63cf4d7160173aa60460bfe96_MIT18_353JF12_MidterAtHome.pdf
 file_size: 127418
 file_type: application/pdf
 learning_resource_types:
