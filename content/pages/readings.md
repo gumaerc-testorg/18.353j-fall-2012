@@ -45,5 +45,5 @@ An advanced book of interest to physicists.
 Thompson, J. M. T., and H. B. Stewart. _Nonlinear Dynamics and Chaos: Geometrical Methods for Engineers and Scientists_. John Wiley and Sons, 1986. ISBN: 9780471909606.  
 A textbook of moderate difficulty with lots of nice pictures and a fair amount of material of engineering interest.
 
-Turcotte, D. _Fractals and Chaos in Geology and Geophysics_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521567336. \[Preview with [Google Books](http://books.google.co.in/books?id=t_z-VeGAjngC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)\].  
+Turcotte, D. _Fractals and Chaos in Geology and Geophysics_. 2nd ed. Cambridge University Press, 1997. ISBN: 9780521567336. \[Preview with {{% resource_link "7e6b6f8a-67ec-469d-b409-05e1da2b98bb" "Google Books" %}}\].  
 Provides a number of nice examples of nonlinear phenomena in the earth sciences.
